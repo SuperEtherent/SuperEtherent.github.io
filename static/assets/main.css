@@ -828,6 +828,9 @@ button:after {
   .s1bg{
     display: none;
   }
+  .s3-tabContent #panel2 .inputBox input{
+    width: 60%;
+  }
   .s1bg2{
     display: block;
     width: 100%;
