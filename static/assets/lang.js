@@ -173,7 +173,7 @@ var lang = {
     lang74:"Level V1: when its own performance + direct push performance reaches 300 eth, it can obtain 3% weighted dividend of global new performance; level V2: when umbrella reaches 6 V1 (3 of which are direct push), it can obtain 3% weighted dividend of global new performance; level V3: when umbrella reaches 6 V2 (3 of which are direct push), it can obtain 3% weighted dividend of global new performance.",
     lang75:"Super node",
     lang76:"Sv1 can directly purchase 100eth ticket, upgrade to sv1, get 5% weighted dividend of global performance, SV2 can directly purchase 200eth fuel, upgrade to SV2, and get 8% weighted dividend of global performance.",
-    lang77:"The SEGAA Prize Pool will be awarded with 8% of each order . For each new investment, the prize part will be awarded, and  when game completed, 100% of the prize pool will be awarded to the last 500 players..",
+    lang77:"The SEGA Prize Pool will be awarded with 8% of each order . For each new investment, the prize part will be awarded, and  when game completed, 100% of the prize pool will be awarded to the last 500 players..",
     err1:'ETH Number cannot be empty!',
     err2:"your ETH credit is running low!",
     err3:"ticket shortage!",
